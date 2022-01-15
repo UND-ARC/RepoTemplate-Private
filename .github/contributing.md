@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-All contributions to this repository are to be made by a member of the UND-ARC Github organization.  As much as we appreciate the thought, no outside collaborators' PRs will be approved without prior discussion.  This is due to liability concerns.
+All contributors to this repository must be members of the Advanced Rocketry Club, and must be members of this GitHub organization (this should be enforced automatically by access restrictions).
 
 All contributions to this repository are to be in accordance with its code of conduct, which can be found in the same directory as this file, titled `CODE_OF_CONDUCT.md`.
 

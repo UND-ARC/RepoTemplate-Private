@@ -3,7 +3,8 @@
 ## Repository Settings
 
 - [ ] Add author name and email to `/docs/_config.yml`
-- [ ] Enable vulnerability alerts: **Settings** -> scroll to **Data Services** -> check **Vulnerability Alerts**
+- [ ] Configure access control (read/write/admin) to the repository as needed
+  - [ ] Ensure the visibility is set to **Private**
 
 ## Metadata
 
